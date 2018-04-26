@@ -104,7 +104,7 @@ int deinit() {
 int start(){
 
 Comment("\n", "\n", "Bearish",
-"\n", "SS 2,3,4 - Shooting Star2", 
+"\n", "SS 2,3,4 - Shooting Star3", 
 "\n", "E_Star   - Evening Star",
 "\n", "E_Doji   - Evening Doji Star",
 "\n", "DCC      - Dark Cloud Pattern",
