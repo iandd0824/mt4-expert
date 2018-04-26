@@ -8,7 +8,7 @@
 //|                 Refined Elliottician Trader                      |
 //|   Alert logic fixed by Hartono Setiono  groups@mitrakom.com      |
 //+------------------------------------------------------------------+
-#property copyright "Copyright © 2007, Carl Sanders (traden4x)."
+#property copyright "Copyright ï¿½ 2007, Carl Sanders (traden4x)."
 #property link      "traden4x@gmail.com"
 
 #property indicator_chart_window
@@ -104,7 +104,7 @@ int deinit() {
 int start(){
 
 Comment("\n", "\n", "Bearish",
-"\n", "SS 2,3,4 - Shooting Star", 
+"\n", "SS 2,3,4 - Shooting Star2", 
 "\n", "E_Star   - Evening Star",
 "\n", "E_Doji   - Evening Doji Star",
 "\n", "DCC      - Dark Cloud Pattern",
